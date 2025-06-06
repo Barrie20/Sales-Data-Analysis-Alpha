@@ -51,7 +51,7 @@ Credit Card transactions accounted for nearly half (47%) of all sales, making it
 While **Beverages** were the highest-selling product category by quantity, **Burgers** generated the most revenue, highlighting their importance as a high-value item.
 
 <p align="center">
-  <img src="[PASTE-YOUR-REVENUE-CHART-IMAGE-LINK-HERE]" width="500">
+  <img src="https://github.com/Barrie20/Sales-Data-Analysis-Alpha/blob/main/image.png" width="500">
 </p>
 
 **Finding 3: Top Performance**
