@@ -42,17 +42,24 @@ The initial dataset required significant cleaning to prepare it for analysis:
 Credit Card transactions accounted for nearly half (47%) of all sales, making it the most dominant payment method.
 
 <p align="center">
-  <img src="[PASTE-YOUR-PAYMENT-CHART-IMAGE-LINK-HERE]" width="500">
+  <img src="https://github.com/Barrie20/Sales-Data-Analysis-Alpha/blob/main/image.png" width="500">
 </p>
 
-<p https://github.com/Barrie20/Sales-Data-Analysis-Alpha/blob/main/image.png </p>
 
 **Finding 2: Burgers Drive Revenue, Beverages Drive Volume**
 While **Beverages** were the highest-selling product category by quantity, **Burgers** generated the most revenue, highlighting their importance as a high-value item.
 
 <p align="center">
-  <img src="https://github.com/Barrie20/Sales-Data-Analysis-Alpha/blob/main/image.png" width="500">
+  <img src="https://github.com/Barrie20/Sales-Data-Analysis-Alpha/blob/main/outputBu1.png" width="500">
 </p>
+
+
+
+<p align="center">
+  <img src="https://github.com/Barrie20/Sales-Data-Analysis-Alpha/blob/main/outputbur2.png" width="500">
+</p>
+
+
 
 **Finding 3: Top Performance**
 The analysis identified **Lisbon**, managed by **Joao Silva**, as the city and manager generating the highest revenue.
